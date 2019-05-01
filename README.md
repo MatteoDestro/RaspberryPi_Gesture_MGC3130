@@ -1,4 +1,4 @@
-Arduino MGC3130 library
+RaspberryPi MGC3130 library
 
 Company:    Futura Group srl
 			www.Futurashop.it
